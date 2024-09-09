@@ -1,2 +1,2 @@
-# dpellow.github.io
-David Pellow
+# 
+# [David Pellow](dpellow.github.io)
