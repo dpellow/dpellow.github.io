@@ -12,7 +12,7 @@ profile:
     <p><a href="david.pellow@utoronto.ca" target="_blank">david.pellow@utoronto.ca</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -26,6 +26,8 @@ latest_posts:
 ---
 
 I am a [Schmidt AI in Science postdoctoral fellow](https://schmidtfellows.utoronto.ca/) at the University of Toronto interested in using machine learning to improve the delivery of healthcare. I am part of the [Transplant AI Initiative](https://www.uhn.ca/Transplant/Research/AI-transplant) at the University Health Network, working on improving outcomes for liver transplant patients.
+
+An up-to-date list of my publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=Uc9XIIwAAAAJ&hl=en) profile.
 
 Before joining the Schmidt program, I was funded by a Vector Institute for AI fellowship and I am a research affiliate of [UHN](https://www.uhn.ca/).
 
