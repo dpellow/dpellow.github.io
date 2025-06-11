@@ -1,5 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: David Pellow
+- title: "CV"
+  url: /assets/pdf/cv.pdf
+  external: true
