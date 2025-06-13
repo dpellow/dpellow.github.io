@@ -196,6 +196,7 @@ exclude:
   - _projects
   - _pages/projects.md
   - _pages/cv.md
+  - _pages/publications.md  
 
   
 keep_files:
