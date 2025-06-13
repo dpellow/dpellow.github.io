@@ -1,0 +1,6 @@
+- title: "About"
+  url: /
+
+- title: "CV"
+  url: /assets/pdf/cv.pdf
+  external: true
