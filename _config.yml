@@ -195,6 +195,7 @@ exclude:
   - _includes/news.liquid
   - _projects
   - _pages/projects.md
+  - _pages/cv.md
 
   
 keep_files:
